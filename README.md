@@ -1,5 +1,7 @@
 # myapp
 
+Project Demo : https://cruduservue.netlify.app/
+
 ## Project setup
 ```
 npm install
