@@ -1,4 +1,4 @@
-# myapp
+# UserCRUD
 
 Project Demo : https://cruduservue.netlify.app/
 
